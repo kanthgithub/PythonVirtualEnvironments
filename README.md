@@ -2,16 +2,13 @@
 
 ## Python Setup on Mac 
 
-Install Python 3 on Mac OS X
+### Install Python 3 on Mac OS X
 
-This short tutorial will show you how to properly install Python 3 on a Mac OS X computer. 
-There are multiple ways to install Python 3, including a download from the official Python site, 
-however I strongly recommend instead using a package manager like Homebrew to manage all your dependencies going forward. 
-It will make your life a lot simpler.
-
+```
 Confirm your Python version
 Although Python 2 is installed by default on Apple computers, Python 3 is not. 
 You can confirm this by typing in Terminal python --version and hitting Enter:
+```
 
 ```sh
 $ python --version
